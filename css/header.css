@@ -64,6 +64,7 @@ header {
     background-color: #fffffff2;
   left: 0;
   width: 100%;
+  Height:40px;
   z-index: 10;
   position: fixed;
   background-image: var(--liner);
