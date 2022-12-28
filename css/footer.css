@@ -156,7 +156,7 @@
   @media (max-width: 767px) {
   
     .dropdown .fa-caret-down:hover {
-      transform: rotate(180deg);
+      transform: none);
     }
   
     .fa-caret-down {
